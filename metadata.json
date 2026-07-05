@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Love Massage",
+  "description": "Your ultimate collection of 24,000+ offline pickup lines, romantic quotes, love messages, compliments, and apologies. Generates customized messages instantly offline!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
